@@ -1,6 +1,4 @@
-import AnimeCard, { AnimeProp } from "@/components/AnimeCard";
 import LoadMore from "../components/LoadMore";
-
 import { fetchAnime } from "./action";
 
 async function Home() {
